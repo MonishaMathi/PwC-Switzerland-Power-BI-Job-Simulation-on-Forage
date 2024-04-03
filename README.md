@@ -24,8 +24,12 @@ To download the files, navigate to the folder in this repository where they are 
 Task 1:
 The dashboard presents a comprehensive overview of key performance indicators and metrics for Claire. It offers a visually appealing display of information, including overall customer satisfaction, call statistics, average speed of answer, and agent performance quadrant, enabling Claire to make informed decisions based on the data.
 
+### Customer Churn and Risk Analysis
+
 Task 2:
 The dashboard display showcases comprehensive visualizations and insights on customer retention for the telecom industry. It allows the management to easily understand and analyze customer data, identify at-risk customers in advance, and develop proactive strategies to prevent contract terminations. The dashboard aims to provide a self-explanatory and visually appealing representation of crucial customer information for informed decision-making.
+
+### Diversity _ Inclusion
 
 Task 3:
 The dashboard display focuses on diversity and inclusion in the telecom client's Human Resources department. It includes key metrics such as the number of men and women, employee turnover rate, percentage of promotions and hires by gender, and average performance ratings for men and women. The dashboard provides a comprehensive view of the gender balance and progression within the organization, aiding in identifying areas for improvement and tracking progress towards achieving gender diversity goals.
